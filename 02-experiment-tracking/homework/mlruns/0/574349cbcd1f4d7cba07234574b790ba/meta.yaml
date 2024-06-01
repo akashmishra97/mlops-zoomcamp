@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/574349cbcd1f4d7cba07234574b790ba/artifacts
+end_time: 1717208224253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 574349cbcd1f4d7cba07234574b790ba
+run_name: intelligent-carp-824
+run_uuid: 574349cbcd1f4d7cba07234574b790ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717208208662
+status: 3
+tags: []
+user_id: mlops

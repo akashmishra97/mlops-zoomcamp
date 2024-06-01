@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/322f2cf87750466da67e2418fadff9de/artifacts
+end_time: 1717208116838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 322f2cf87750466da67e2418fadff9de
+run_name: unique-sloth-845
+run_uuid: 322f2cf87750466da67e2418fadff9de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717208100733
+status: 3
+tags: []
+user_id: mlops
