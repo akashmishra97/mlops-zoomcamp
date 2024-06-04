@@ -3,7 +3,7 @@
 .bin
 *.db
 
-*.parquet
+#*.parquet
 *.html
 *.csv
 
